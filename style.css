@@ -1,0 +1,46 @@
+
+
+
+table, th, td{
+    
+    border: 1px solid rgba(104, 104, 104, 0.6);
+    padding: 10px;
+
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.pending {
+    background-color: aqua;
+}
+table{
+    width: 60%;
+    margin: 0px auto;
+    font-family: 'Inter', Verdana, "Segoe UI", Helvetica, Sans-Serif;
+    font-size: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+th{
+    background-color: lightgrey;
+}
+
+.title{
+    background-color: #539fea;
+    color: #fff;
+    
+}
+
+.pending td {
+    background-color: yellow;
+}
+
+.white td{
+    background-color: white;
+}
+td{
+    background-color:skyblue;
+    padding: 10px;
+}
